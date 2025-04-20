@@ -1,1 +1,1 @@
-# My personal pyhton projects 
+# My personal python projects 
