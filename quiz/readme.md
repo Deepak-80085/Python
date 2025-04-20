@@ -15,9 +15,9 @@ A simple command-line quiz application written in Python that allows users to te
 1. Make sure you have Python installed
 2. Save the code in a file named `quiz.py`
 3. Run the application using:
-    ```
-    python quiz.py
-    ```
+   ```
+   python quiz.py
+   ```
 
 ## How to Play
 
